@@ -1,0 +1,2 @@
+/Users/sagar/StudioProjects/emp_manager/android/app/.cxx/RelWithDebInfo/183n6mh5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/sagar/StudioProjects/emp_manager/android/app/.cxx/RelWithDebInfo/183n6mh5/arm64-v8a/CMakeFiles/rebuild_cache.dir
